@@ -31,3 +31,4 @@ elif player == "Scissors" :
 		print("player wins...")
 else :
 	print("Try again....")
+	
