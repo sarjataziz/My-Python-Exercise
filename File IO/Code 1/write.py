@@ -6,3 +6,4 @@
 
 with open("haiku.txt", "r+") as file:
 	file.write("\n Add")
+	
