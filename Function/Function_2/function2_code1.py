@@ -12,7 +12,6 @@ def fav_colors(**kwargs):
 	print(kwargs)
 fav_colors(sarjat = "Blue")
 
-
 def fav_colors(**kwargs):
 	for person, color in kwargs.items():
 		print(kwargs)
