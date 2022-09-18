@@ -20,5 +20,3 @@ for number in range(1,21):
     else:
         state = "odd"
     print(f"{number} : is {state}")
-
-
