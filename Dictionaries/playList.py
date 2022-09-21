@@ -5,7 +5,6 @@ playList = {
 		{"Tile": "Know me", "Artist": ["Blue"], "Duration": 2.5},
 		{"Tile": "Meno", "Artist": ["Barry", "Djcd"], "Duration": 7.5},
 		{"Tile": "Hello", "Artist": ["Garf"], "Duration": 4.5}
-
 	]
 }
 
