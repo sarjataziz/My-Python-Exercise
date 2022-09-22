@@ -11,6 +11,5 @@ users = [
 		{"username": "Noelle", "tweets": []},
 		{"username": "Kudu", "tweets": []}
 		]
-
 a = sorted(users, key = lambda user: user["username"])
 print(a)
