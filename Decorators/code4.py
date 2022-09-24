@@ -11,5 +11,4 @@ def ensure_no_kwargs(fn):
 @ensure_no_kwargs
 def greet(name):
 	print(f"Hi, there {name}")
-
 greet("Tony Tony Copper")
