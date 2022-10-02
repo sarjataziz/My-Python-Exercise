@@ -32,7 +32,6 @@ print("__________________________")
 for k,v in a.items():
 	print(f"key is {k} and values is {v}")
 
-
 print("__________________________")
 
 
