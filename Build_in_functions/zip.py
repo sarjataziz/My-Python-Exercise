@@ -31,4 +31,3 @@ avg_grades = dict(
 		)
 	)
 )
-
